@@ -6,5 +6,4 @@ labels_kiti/
 *.zip
 *.tar.gz
 *.png
-*.jsonl
 *.pt
