@@ -1,0 +1,10 @@
+/__pycache__
+image_kiti/
+labels_kiti/
+/qwen3_output
+/qwen3_output_vllm
+*.zip
+*.tar.gz
+*.png
+*.jsonl
+*.pt

@@ -1,0 +1,10 @@
+Fine-tuned f, Origin o, Random r, Brute force b
+Total: 2766 Success: 2364 Success Rate: 85.47% Average Cost: 174.12 f
+Total: 2765 Success: 2177 Success Rate: 78.73% Average Cost: 125.54 f
+
+Total: 2766 Success: 2295 Success Rate: 82.97% Average Cost: 179.20 o
+Total: 2766 Success: 2148 Success Rate: 77.66% Average Cost: 159.60 o
+Total: 2766 Success: 2381 Success Rate: 86.08% Average Cost: 178.59 o
+
+Total: 2766 Success: 2404 Success Rate: 86.91% Average Cost: 202.34 r
+Total: 2766 Success: 2421 Success Rate: 87.53% Average Cost: 200.24 r
